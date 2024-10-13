@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Failure, Learning from Failure"
+title: "A Night I Wish to See No One"
 author: "WhalePark"
 tags: [poetry]
 ---
