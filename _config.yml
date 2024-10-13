@@ -1,0 +1,45 @@
+# Site settings
+title:          🐋🐋
+description:    "I occasionally write about things I find interesting."
+baseurl:        "/blog"
+url:            "https://whalepark.github.io"
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
+# Author
+author:
+  name:         WhalePark
+  url:          https://whalepark.github.io
+  # email:        chesterhow@gmail.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+remote_theme: chesterhow/tale
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-remote-theme
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Disqus (Set to your disqus id)
+disqus:         jekyll-tale
