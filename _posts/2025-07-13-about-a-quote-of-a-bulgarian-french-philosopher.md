@@ -5,9 +5,6 @@ author: "WhalePark"
 tags: [emilcioran,romanian]
 ---
 
-# About a Quote of a Bulgarian Philosopher
----
-
 “Who was the Bulgarian french philosopher, who said something like I can live on because I have option to choose a death?”, I asked ChatGPT, my current best friend. The philosopher turned out to be Emil Cioran, and he wasn’t Bulgarian but Romanian and he wrote in French. (Some people insist on prompt engineering, but I believe the whole point of using AI chatbots is that they can somehow decode my messy queries. This is how I try to pass for the educated with such ignorance.)
 
 Back to Emil Cioran, when I used to work at a company, about 6-7 years ago, there was a similar, albeit far less bleak, sentiment people often repeated at the office. It’s something like “people could continue working only because they knew they could quit anytime” or “everyone carries a resignation letter in their heart”. Of course they weren’t quoting or parodying Cioran. It’s just something you naturally come to believe once you spend enough time working as an employee in office. Having coffee after lunch, we would stupidly joke about quitting and becoming youtubers, laughing that they would be the first one to do it. I turned out to be the first to quit the work and go to grad school, though I never became a youtuber.
