@@ -76,7 +76,7 @@ int y = x; // The rvalue x is implicitly converted to an lvalue,
 printf("%d\n", y); // 3
 
 int x = 3;     // An rvalue is assigned to an lvalue
-int &y = x;    // The memory space of the rvalue x is bound to the lvalue reference y
+int &y = x;    // The memory space of the lvalue x is bound to the lvalue reference y
 printf("%d\n", y); // 3
 ```
 
